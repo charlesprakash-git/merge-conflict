@@ -1,14 +1,17 @@
-pseudo code
+// Pseudocode
 {
-Initial Function()
-{
-  //Sample Code
-}
+  InitialFunction()
+  {
+    // Sample Code
+  }
 
-feaature2()
-{
-  //Sample Code for Feature 2
-}
+  InitialSecurity()
+  {
+    // Sample Code
+  }
 
-
+  feature2()
+  {
+    // Sample Code for Feature 2
+  }
 }
